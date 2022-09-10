@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bahadır
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to work on HTML,CSS, and Python
+- 💞️ I’m looking to work on HTML,CSS, JavaScript, and Python
 - 📫 How to reach me: bahadirkarakuskk99@gmail.com
 - Check this website I built ==> https://moviesjoyapp-bkara.netlify.app/
 
